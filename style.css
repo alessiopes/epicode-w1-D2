@@ -1,0 +1,63 @@
+body {
+    width: 700px;
+    margin: auto;
+    font-family: Georgia, serif;
+}
+
+.centered {
+    text-align:center;
+}
+
+.logo {
+    width: 200px;
+}
+
+.sub-logo { 
+    background: rgb(222,230,173);
+    background: linear-gradient(180deg, rgba(222,230,173,1) 0%, rgba(114,123,62,0) 100%);
+    font-size: 13px;
+    padding: 1em;
+    color: #303030;
+}
+
+.title {
+    margin: 4em 2em 2em 2em;
+    color: #303030;
+}
+
+.imageBy {
+    color: gray;
+}
+
+.featuredIn {
+    color: orangered;
+}
+
+.featuredIn-container {
+    padding: 0em 1em;
+    border-left: 2px solid LightGray;
+}
+
+.margin-up-down-zero {
+    margin: 0em 0.3em;
+}
+
+li {
+    margin: 0.8em 0.3em;
+}
+
+hr {
+    color: gray;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+.main-image {
+    border-radius: 25px;
+}
